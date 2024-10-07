@@ -2791,6 +2791,26 @@
       ]
     }
   ],
+{
+      "login": "MidhaShrey",
+      "name": "Shrey Midha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63195461?s=400&u=371c9b458285e2af2cf4d61c1a0ffc335fea69ba&v=4",
+      "profile": "https://MidhaShrey.github.io/",
+      "contributions": [
+        "Question",
+        "bug",
+        "code",
+        "Content",
+        "data",
+        "doc",
+        "maintenance",
+        "project-management",
+        "Review",
+        "tutorial",
+        "talk"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "linkToUsage": true
 }
